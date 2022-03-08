@@ -1,4 +1,4 @@
-import 'package:collect_data/pages/model/data.dart';
+import '../../model/data.dart';
 import 'package:flutter/material.dart';
 import '../display_detail/display_detail.dart';
 

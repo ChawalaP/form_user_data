@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../model/data.dart';
+import '../../model/data.dart';
 
 class Display_Detail extends StatefulWidget {
   const Display_Detail({Key? key, required this.data}) : super(key: key);
